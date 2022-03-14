@@ -1,3 +1,6 @@
+# Retention Filter
+# This Script runs through a Directory and lists which sub-directories are older than the User Defined amount of days!
+
 run this command through terminal [replace anything in brackets with what you want]
 
     python3 main.py [filepath of where you want searched] [retention days (by default its 90)] > [outputfilename].txt
