@@ -5,4 +5,4 @@ run this command through terminal [replace anything in brackets with what you wa
 
     python3 main.py [filepath of where you want searched] [retention days (by default its 90)] > [outputfilename].txt
 
-        SAMPLE: python3 main.py /Volumes/Mercury/CLIENTS/Disney 90 > disneyRetention.txt
+        SAMPLE: python3 main.py /Volumes/Drive 90 > retention.txt
