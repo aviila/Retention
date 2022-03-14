@@ -1,4 +1,4 @@
-Retention Filter
+Retention Filter (Linux/MacOS)
 This Script runs through a Directory and lists which sub-directories are older than the User Defined amount of days!
 
 run this command through terminal [replace anything in brackets with what you want]
